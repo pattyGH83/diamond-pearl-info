@@ -1,0 +1,213 @@
+// AKA Object Event GFX
+
+[000] - Lucas / Player/Counterpart Male
+[001] - Ninja/Little Boy
+[002] - Twin/Little Girl
+[003] - School Kid Male
+[004] - Youngster
+[005] - Bug Catcher
+[006] - Lass
+[007] - Battle Girl
+[008] - School Kid Female
+[009] - Pokemon Breeder Male
+[010] - Guitarist
+[011] - Ace Trainer Male
+[012] - Pokemon Breeder Female / Aroma Lady
+[013] - Beauty
+[014] - Ace Trainer Female
+[015] - Pokefan Male / Father
+[016] - Pokefan Female / Mother
+[017] - Expert/Elder Male / Veteran
+[018] - Expert/Elder Female
+[019] - Collector
+[020] - Hiker
+[021] - Lucas / Player Male Biking
+[022] - Reporter
+[023] - Cameraman
+[024] - Cashier Male
+[025] - Cashier Female
+[026] - PokeCenter Nurse / Nurse Joy
+[027] - PokeCenter Receptionist 1 / Teala
+[028] - Unused - PokeCenter Receptionist 2
+[029] - Scientist Male
+[030] - Scientist Female
+[031] - Roughneck
+[032] - Skier Male 
+[033] - Skier Female
+[034] - Policeman
+[035] - Idol
+[036] - Gentleman
+[037] - Socialite
+[038] - Cyclist Male
+[039] - Cyclist Female
+[040] - Mine Worker
+[041] - Rancher Male
+[042] - Cowgirl/Rancher Female
+[043] - Clown
+[044] - Artist
+[045] - Jogger
+[046] - Swimmer Male
+[047] - Swimmer Female
+[048] - Tuber Girl
+[049] - Tuber Boy
+[050] - Ruin Maniac
+[051] - Black Belt
+[052] - Camper
+[053] - Picnicker
+[054] - Fisherman
+[055] - Parasol Lady
+[056] - Sailor
+[057] - Dummy
+[058] - Dummy
+[059] - Waiter
+[060] - Waitress
+[061] - Dummy
+[062] - Rich Boy
+[063] - Lady
+[064] - Snow Walker Male
+[065] - Snow Walker Female
+[066] - Dummy
+[067] - Dummy
+[068] - Ace Trainer Snow Male
+[069] - Ace Trainer Snow Female
+[070] - Psychic 
+[071] - Pikachu
+[072] - Clefairy
+[073] - Jigglypuff
+[074] - Psyduck
+[075] - Dummy
+[076] - Dummy
+[077] - Dummy
+[078] - Torchic
+[079] - Skitty
+[080] - Dummy
+[081] - Baby in Stroller
+[082] - Business Man
+[083] - Business Woman
+[084] - Boulder
+[085] - Rock
+[086] - Small Tree
+[087] - Poke Ball
+[088] - Unused - Woman
+[089] - Unused - Woman
+[090] - Unused - Woman
+[091] - Wooden Signpost
+[092] - Mailbox (3D Model)
+[093] - Location Signboard (3D Model)
+[094] - Direction Signpost (3D Model)
+[095] - Gym Signpost (3D Model)
+[096] - Trainer Tips Signpost
+[097] - Dawn / Player/Counterpart Female
+[098] - Dawn / Player Female Biking
+[099] - Professor Rowan
+[100] - Berry Soil  // Not available for selection in DSPRE
+[101] - Variable Overworld 0  // Set with 0x4020
+[102] - Variable Overworld 1  // Set with 0x4021
+[103] - Variable Overworld 2  // Set with 0x4022
+[104] - Variable Overworld 3  // Set with 0x4023
+[105] - Variable Overworld 4  // Set with 0x4024
+[106] - Variable Overworld 5  // Set with 0x4025
+[107] - Variable Overworld 6  // Set with 0x4026
+[108] - Variable Overworld 7  // Set with 0x4027
+[109] - Variable Overworld 8  // Set with 0x4028
+[110] - Variable Overworld 9  // Set with 0x4029
+[111] - Variable Overworld A  // Set with 0x402A
+[112] - Variable Overworld B  // Set with 0x402B
+[113] - Variable Overworld C  // Set with 0x402C
+[114] - Variable Overworld D  // Set with 0x402D
+[115] - Variable Overworld E  // Set with 0x402E
+[116] - Variable Overworld F  // Set with 0x402F
+[117] - Unknown  // Not available for selection in DSPRE
+[118] - Snowpoint Gym Snowball  // Not available for selection in DSPRE
+[119] - Unknown  // Not available for selection in DSPRE
+[120] - Cyrus
+[121] - Mars
+[122] - Saturn
+[123] - Jupiter
+[124] - Galactic Grunt Male
+[125] - Galactic Grunt Female
+[126] - Roark
+[127] - Gardenia
+[128] - Crasher Wake
+[129] - Maylene
+[130] - Fantina
+[131] - Candice
+[132] - Byron
+[133] - Volkner
+[134] - Aaron
+[135] - Bertha
+[136] - Flint
+[137] - Lucian
+[138] - Cynthia
+[139] - Unused - Man
+[140] - Player's Mom
+[141] - Cheryl
+[142] - Riley
+[143] - Marley
+[144] - Buck
+[145] - Mira
+[146] - Dummy
+[147] - Dummy
+[148] - Barry / Rival
+[149] - Unused - Big Man
+[150] - Unused - Big Man
+[151] - Uxie
+[152] - Mesprit
+[153] - Azelf
+[154] - Dialga
+[155] - Palkia
+[156] - Arceus
+[157] - Darkrai
+[158] - Shaymin
+[159] - Cresselia
+[160] - Giratina
+[161] - Heatran
+[162] - Dummy
+[163] - Receptionist
+[164] - Old Man
+[165] - Old Woman
+[166] - Professor Oak
+[167] - Jasmine
+[168] - Gym Guide
+[169] - Palmer
+[170] - Unused - Big Man
+[171] - Unused - Big Man
+[172] - Unused - Big Man
+[173] - Lake Verity Starly
+[174] - Briefcase
+[175] - Maid
+[176] - Lucas / Player Male Holding Poke Ball
+[177] - Dawn / Player Female Holding Poke Ball
+[178] - Lucas / Player Male Surfing
+[179] - Dawn / Player Female Surfing
+[180] - Lucas / Player Male Sprayduck
+[181] - Dawn / Player Female Sprayduck
+[182] - Vent
+[183] - Book (3D Model)  // Not available for selection in DSPRE
+[184] - Regigigas
+[185] - Drifloon
+[186] - Lucas / Player Male Contest
+[187] - Dawn / Player Female Contest
+[188] - Lucas / Player Male Fishing
+[189] - Dawn / Player Female Fishing
+[190] - Moss Rock
+[191] - Ice Rock
+[192] - Bollard
+[193] - Mystery Gift Deliveryman
+[194] - Kid Holding NDS
+[195] - Flopping Magikarp
+[196] - Lucas / Player Male Poketch
+[197] - Dawn / Player Female Poketch
+[198] - Lucas / Player Male Save
+[199] - Dawn / Player Female Save
+[200] - Lucas / Player Male Bag
+[201] - Dawn / Player Female Bag
+[202] - Galactic HQ Door
+[203] - Wall Painting
+[204] - Pachirisu
+[205] - Shroomish
+[206] - Buneary
+[207] - Happiny
+[208] - Machop
+[4096 - 4288] - Berry Tree Stages
+// End of vanilla overworlds
