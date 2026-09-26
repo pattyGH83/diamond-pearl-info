@@ -1,5 +1,27 @@
 ARM9
+0205EC84  00000008  SetFlag  0x5EC84
+0205EC8C  00000008  ClearFlag  0x5EC8C
+0205EC94  00000008  CheckFlag  0x5EC94
+0205EC9C  00000036  HandleFlag  0x5EC9C
+
+0205ECD4  0000000C  SystemFlag_SetBagAcquired  0x5ECD4
+0205ECE0  0000000C  SystemFlag_CheckBagAcquired  0x5ECE0
+0205ECEC  00000010  CheckHearthomeGymLiftEnabled  0x5ECEC
+0205ECFC  00000010  SystemFlag_SetGameCompleted  0x5ECFC
+0205ED0C  00000010  SystemFlag_CheckGameCompleted  0x5ED0C
+0205ED1C  00000010  SystemFlag_SetHasPartner  0x5ED1C
+0205ED2C  00000010  SystemFlag_ClearHasPartner  0x5ED2C
+0205ED3C  00000010  SystemFlag_CheckHasPartner  0x5ED3C
+0205ED4C  00000010  SystemFlag_SetStep  0x5ED4C
+0205ED5C  00000010  SystemFlag_SetStep  0x5ED5C
+0205ED6C  00000010  SystemFlag_SetStep  0x5ED6C
+
+0205F264  00000010  SystemFlag_HandleStrengthActive  0x5F264
+0205F2D4  00000010  SystemFlag_HandleJournalAcquired  0x5F2D4
+
+
 0206AB30  00000028  MoveTable_CalcMaxPP  0x6AB30
+
 
 Overlay 6 - Encounters, Shop Menu
 ram address  0000014C  Shop_InitContextMenu  0x3F9C
