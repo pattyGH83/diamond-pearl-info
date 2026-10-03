@@ -12,8 +12,8 @@ ARM9
 0205ED2C  00000010  SystemFlag_ClearHasPartner  0x5ED2C
 0205ED3C  00000010  SystemFlag_CheckHasPartner  0x5ED3C
 0205ED4C  00000010  SystemFlag_SetStep  0x5ED4C
-0205ED5C  00000010  SystemFlag_SetStep  0x5ED5C
-0205ED6C  00000010  SystemFlag_SetStep  0x5ED6C
+0205ED5C  00000010  SystemFlag_ClearStep  0x5ED5C
+0205ED6C  00000010  SystemFlag_CheckStep  0x5ED6C
 
 0205F264  00000010  SystemFlag_HandleStrengthActive  0x5F264
 0205F2D4  00000010  SystemFlag_HandleJournalAcquired  0x5F2D4
