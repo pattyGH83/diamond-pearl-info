@@ -25,6 +25,7 @@ ARM9
 
 
 Overlay 6 - Encounters, Shop Menu
+022396A0
 ram address  0000014C  Shop_InitContextMenu  0x3F9C
 ram address  0000009C  Shop_MenuPrintCallback  0x4794
 
@@ -48,5 +49,11 @@ Overlay 11 - Battle Logic
 0224BF3C  00000108  BattleSystem_CalcCriticalMulti  0x1E97C
 
 
+Overlay 16 - Trainer AI
+021D74E0
+021F2EE8  000003F4  TrainerAI_CalcDamage  0x1BA08
+
+
 Overlay 76 - Move Reminder
+021D74E0
 ram address  00000054  MoveReminder_State_ReplaceOldMove  0x64C
