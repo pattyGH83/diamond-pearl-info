@@ -24,6 +24,10 @@ ARM9
 020EBE8C  length    _u32_div_f  0xEBE8C
 
 
+Overlay 5 - Encounters
+021D74E0
+021F5E30  00000034  FishingTask_SetFishWait  0x1E950
+
 Overlay 6 - Encounters, Shop Menu
 022396A0
 ram address  0000014C  Shop_InitContextMenu  0x3F9C
