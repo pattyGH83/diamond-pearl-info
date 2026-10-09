@@ -32,8 +32,12 @@ Overlay 5 - Encounters
 
 Overlay 6 - Encounters, Shop Menu
 022396A0
-ram address  0000014C  Shop_InitContextMenu  0x3F9C
-ram address  0000009C  Shop_MenuPrintCallback  0x4794
+0223BD14  0000015C  WildEncounters_TryFishingEncounter  0x2674
+
+0223CF14  00000064  ModifyEncounterRateWithFieldParams  0x3874
+
+0223D63C  0000014C  Shop_InitContextMenu  0x3F9C
+0223DE34  0000009C  Shop_MenuPrintCallback  0x4794
 
 
 Overlay 11 - Battle Logic
