@@ -30,6 +30,9 @@ Overlay 5 - Encounters
 021D74E0
 021F5E30  00000034  FishingTask_SetFishWait  0x1E950
 
+021F5F9C  0000000C  FishingTask_SetNoFishWait  0x1EABC
+
+
 Overlay 6 - Encounters, Shop Menu
 022396A0
 0223BD14  0000015C  WildEncounters_TryFishingEncounter  0x2674
