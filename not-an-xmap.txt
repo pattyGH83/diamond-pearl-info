@@ -53,6 +53,8 @@ Overlay 11 - Battle Logic
 0223A79C  00000B40  BattleScript_GetExpTask  0xD1DC
 0223B2DC  000001C0  BattleScript_CalcEffortValues  0xDD1C
 
+0223BFD8  00000258  BattleScript_CalcCatchShakes  0xEA18
+
 0223FDB0  000006F4  BattleControllerPlayer_CheckStatusDisruption  0x127F0
 022404A4  00000078  BattleControllerPlayer_TriggerImmunityAbilities  0x12EE4
 
@@ -62,6 +64,8 @@ Overlay 11 - Battle Logic
 02247418  000001A0  BattleSystem_TriggerImmunityAbility  0x19E58
 
 0224BF3C  00000108  BattleSystem_CalcCriticalMulti  0x1E97C
+
+0225DC28  00000004  sBasicBallMod  0x30668
 
 
 Overlay 16 - Trainer AI
