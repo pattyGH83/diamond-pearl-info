@@ -61,6 +61,8 @@ Overlay 11 - Battle Logic
 
 0224053C  00000354  BattleControllerPlayer_CheckMoveHitAccuracy  0x12F7C
 
+02242B78  000004DC  BattleSystem_InitBattleMon  0x155B8
+
 02246870  00000288  BattleSystem_CountAbility  0x192B0
 02246D84  0000005C  Battler_IgnorableAbility  0x197C4
 
