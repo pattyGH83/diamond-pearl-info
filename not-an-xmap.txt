@@ -20,6 +20,14 @@ ARM9
 0205F264  00000010  SystemFlag_HandleStrengthActive  0x5F264
 0205F2D4  00000010  SystemFlag_HandleJournalAcquired  0x5F2D4
 
+020690C4  00000004  Pokemon_GetStructSize  0x690C4
+020690C8  00000004  BoxPokemon_GetStructSize  0x690C8
+020690CC  00000008  Pokemon_GetForm  0x690CC
+020690D4  00000010  BoxPokemon_GetForm  0x690D4
+020690E4  00000004  Pokemon_GetBoxPokemon  0x690E4
+
+0206AA30  00000054  SpriteSystem_TrainerClassBackSpriteIndex  0x6AA30
+
 0206AB30  00000028  MoveTable_CalcMaxPP  0x6AB30
 
 020EBC80  0000020C  _s32_div_f  0xEBC80
