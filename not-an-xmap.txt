@@ -70,6 +70,8 @@ Overlay 6 - Encounters, Shop Menu
 0223DCF0  00000144  Shop_MenuCursorCallback  0x4650
 0223DE34  0000009C  Shop_MenuPrintCallback  0x4794
 
+0223EB2C  00000064  Shop_PrintExit  0x0000548C
+
 
 Overlay 11 - Battle Logic
 0222D5C0
