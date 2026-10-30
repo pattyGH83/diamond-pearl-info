@@ -1,3 +1,5 @@
+Follows Pret/PokePlatinum naming conventions
+
 ARM9
 02047FD0  0000009C  CalcTerrain  0x47FD0
 
@@ -49,7 +51,23 @@ Overlay 6 - Encounters, Shop Menu
 
 0223CF14  00000064  ModifyEncounterRateWithFieldParams  0x3874
 
+0223D4AC  0000015C  FieldTask_InitShop  0x3E0C
+0223D608  00000010  Shop_ShowContextMenu  0x3F68
+0223D618  00000024  Shop_InitStringUtil  0x3F78
 0223D63C  0000014C  Shop_InitContextMenu  0x3F9C
+0223D788  00000030  Shop_SelectContextMenu  0x40E8
+0223D7B8  00000034  Shop_CloseContextMenu  0x4118
+0223D7EC  0000012C  Shop_Exit  0x414C
+0223D918  00000060  Shop_InitCamera  0x4278
+0223D978  00000048  Shop_LoadWindows  0x42D8
+0223D9C0  00000028  Shop_DestroyStaticWindows  0x4320
+0223D9E8  000000A4  Shop_LoadGraphics  0x4348
+0223DA8C  00000090  Shop_SetBgPriorities  0x43EC
+0223DB1C  00000048  Shop_RestoreBgPriorities  0x447C
+0223DB64  0000006C  Shop_MoveCamera  0x44C4
+0223DBD0  00000024  Shop_GetItemId  0x4530
+0223DBF4  000000FC  Shop_InitItemsList  0x04554
+0223DCF0  00000144  Shop_MenuCursorCallback  0x4650
 0223DE34  0000009C  Shop_MenuPrintCallback  0x4794
 
 
