@@ -51,6 +51,8 @@ Overlay 6 - Encounters, Shop Menu
 022396A0
 0223BD14  0000015C  WildEncounters_TryFishingEncounter  0x2674
 
+0223C78C  0000005C  GetNatureForWildMon  0x30EC
+
 0223CF14  00000064  ModifyEncounterRateWithFieldParams  0x3874
 
 0223D4AC  0000015C  FieldTask_InitShop  0x3E0C
