@@ -22,6 +22,8 @@ ARM9
 0205F264  00000010  SystemFlag_HandleStrengthActive  0x5F264
 0205F2D4  00000010  SystemFlag_HandleJournalAcquired  0x5F2D4
 
+02068AAC  0000002C  Pokemon_IsPersonalityShiny / Pokemon_InlineIsPersonalityShiny 0x68AAC
+
 020690C4  00000004  Pokemon_GetStructSize  0x690C4
 020690C8  00000004  BoxPokemon_GetStructSize  0x690C8
 020690CC  00000008  Pokemon_GetForm  0x690CC
