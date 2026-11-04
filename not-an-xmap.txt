@@ -40,6 +40,11 @@ ARM9
 
 Overlay 5 - Encounters
 021D74E0
+021ECF14  000000F8  Egg_CreateEgg  0x15A34
+021ED00C  000000C0  Egg_SetInitialData  0x15B2C
+
+021ED940  00000074  Egg_CreateHatchedMon  0x16460
+
 021F5E30  00000034  FishingTask_SetFishWait  0x1E950
 
 021F5F9C  0000000C  FishingTask_SetNoFishWait  0x1EABC
