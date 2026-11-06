@@ -30,6 +30,8 @@ ARM9
 020690D4  00000010  BoxPokemon_GetForm  0x690D4
 020690E4  00000004  Pokemon_GetBoxPokemon  0x690E4
 
+02069F9C  00000014  Pokemon_LoadLevelUpMovesOf  0x69F9C
+
 0206AA30  00000054  SpriteSystem_TrainerClassBackSpriteIndex  0x6AA30
 
 0206AB30  00000028  MoveTable_CalcMaxPP  0x6AB30
