@@ -6,6 +6,9 @@ ARM9
 
 02025308  0000006C  AdvancePatchGrowth  0x25308
 
+02025374  0000006C  DrainPatchMoisture  0x25374
+020253E0  000000A4  BerryPatches_ElapseMinutes  0x253E0
+
 02047FD0  0000009C  CalcTerrain  0x47FD0
 
 0205EC84  00000008  SetFlag  0x5EC84
