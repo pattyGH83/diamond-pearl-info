@@ -1,6 +1,11 @@
 Follows Pret/PokePlatinum naming conventions
 
 ARM9
+
+020251DC  00000024  CalcMoistureDrainRate  0x251DC
+
+02025308  0000006C  AdvancePatchGrowth  0x25308
+
 02047FD0  0000009C  CalcTerrain  0x47FD0
 
 0205EC84  00000008  SetFlag  0x5EC84
