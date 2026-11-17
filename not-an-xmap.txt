@@ -135,6 +135,14 @@ Overlay 16 - Trainer AI
 021F2EE8  000003F4  TrainerAI_CalcDamage  0x1BA08
 
 
+Overlay 18 - Underground
+022396A0
+0223AED4  00000028  Mining_GetTotalItemWeight  0x1834
+0223AEFC  00000030  Mining_PickItem  0x185C
+
+02250B30  000006A4  sMiningObjects  0x17490
+
+
 Overlay 76 - Move Reminder
 021D74E0
 ram address  00000054  MoveReminder_State_ReplaceOldMove  0x64C
