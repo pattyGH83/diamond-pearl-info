@@ -9,6 +9,8 @@ ARM9
 02025374  0000006C  DrainPatchMoisture  0x25374
 020253E0  000000A4  BerryPatches_ElapseMinutes  0x253E0
 
+02025D48  00000024  Underground_ConvertTreasureToBagItem  0x25D48
+
 02047FD0  0000009C  CalcTerrain  0x47FD0
 
 0205EC84  00000008  SetFlag  0x5EC84
@@ -47,6 +49,7 @@ ARM9
 020EBC80  0000020C  _s32_div_f  0xEBC80
 020EBE8C  length    _u32_div_f  0xEBE8C
 
+02105C74  00000062  sMiningItems  0x105C74
 
 Overlay 5 - Encounters
 021D74E0
