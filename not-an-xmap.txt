@@ -140,6 +140,9 @@ Overlay 18 - Underground
 0223AED4  00000028  Mining_GetTotalItemWeight  0x1834
 0223AEFC  00000030  Mining_PickItem  0x185C
 
+0223B738  0000003C  Mining_IsItemAtCoordinates  0x2098
+0223B774  00000038  Mining_IsRockAtCoordinates  0x20D4
+
 02250B30  000006A4  sMiningObjects  0x17490
 
 
