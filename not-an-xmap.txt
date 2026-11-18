@@ -1,6 +1,9 @@
 Follows Pret/PokePlatinum naming conventions
 
 ARM9
+
+020250C4  00000064  BerryPatches_Init  0x250C4
+02025128  0000005C  BerryGrowthData_Init  0x25128
 020251B0  0000002C  CalcMinutesRemainingInStage  0x251B0
 020251DC  00000024  CalcMoistureDrainRate  0x251DC
 
@@ -10,6 +13,7 @@ ARM9
 020253E0  000000A4  BerryPatches_ElapseMinutes  0x253E0
 
 02025D48  00000024  Underground_ConvertTreasureToBagItem  0x25D48
+
 
 02047FD0  0000009C  CalcTerrain  0x47FD0
 
@@ -145,6 +149,10 @@ Overlay 18 - Underground
 
 02250B30  000006A4  sMiningObjects  0x17490
 
+
+Overlay 52
+021D74E0
+021D76F8  000001D8  sBerryInitTable  0x218
 
 Overlay 76 - Move Reminder
 021D74E0
